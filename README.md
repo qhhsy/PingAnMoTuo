@@ -27,6 +27,10 @@ https://segmentfault.com/a/1190000019650985
 mac：
 
 https://zhuanlan.zhihu.com/p/26182135
+## 下载地址
+
+不愿意编译就直接下载
+链接：https://pan.quark.cn/s/411c3c4fad74
 
 使用方法：
 
