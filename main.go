@@ -238,8 +238,8 @@ func main() {
 		textArea.Refresh()
 		start.Refresh()
 	})
-
-	content := container.NewVBox(name, phone, chepai, seessionId, signature, start, textArea)
+	l := widget.NewLabel("微信关注<小白技术社>")
+	content := container.NewVBox(name, phone, chepai, seessionId, signature, start, textArea, l)
 
 	w.SetContent(content)
 	w.ShowAndRun()
