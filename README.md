@@ -18,6 +18,16 @@ fyne package -os ios -appID com.example.motuopingan -icon img.png
 
 fyne package -os windows -icon img.png
 
+## 抓包方法
+
+win：
+
+https://segmentfault.com/a/1190000019650985
+
+mac：
+
+https://zhuanlan.zhihu.com/p/26182135
+
 使用方法：
 
 微信抓包找到门店小程序的seessionId和signature，填入
